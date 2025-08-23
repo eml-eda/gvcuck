@@ -15,3 +15,9 @@ third_party/
 *tx_uart.log
 .venv/
 *.log
+tests/ara-rtl/
+tests/chimera-sdk/
+tests/junit-reports/
+tests/pulp-sdk/
+tests/snitch/
+tests/spatz-rtl/
